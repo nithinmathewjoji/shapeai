@@ -1,0 +1,17 @@
+.skill
+{
+  padding:1em;
+  color: #0080ff;
+  text-align: center;
+}
+.an1{
+  margin: 2em;
+  align-items: center;
+}
+#image
+{
+  vertical-align:top;
+  margin: 1em;
+  image-orientation:center;
+
+}
